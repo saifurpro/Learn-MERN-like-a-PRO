@@ -28,4 +28,24 @@ I really want to give you something, professionally, seriously with commitment. 
 
 ![image](https://user-images.githubusercontent.com/26122249/177131735-9f0bf44e-5e65-411e-8a7a-eece0496efd0.png)
 
+এর পর আমরা কথা বলবো MongoDB নিয়ে।
+
+![image](https://user-images.githubusercontent.com/26122249/178501573-e5a3c0e9-1e89-4397-9990-00e2016cbbd7.png)
+
+এর পর আমরা কথা বলবো API CRUD নিয়ে।
+
+![image](https://user-images.githubusercontent.com/26122249/178502052-d068e9de-2ded-41e5-b0b2-181f4aaaed92.png)
+
+এর পর আমরা কথা বলবো Testing নিয়ে।
+
+![image](https://user-images.githubusercontent.com/26122249/178502339-6de61ffa-999c-4cb5-9229-2385cbfd0575.png)
+
+```
+এই টুকু হয়ে গেলে, আমি মনে করি যে, you will be ready for any type of server-side project as a upper junior developer. :)
+```
+এর পরে আমরা 'ক্লায়েন্ট' এ শিফট করবো। আমরা জন্য জানবো ব্রাউজার কিভাবে কাজ করে, ডম কিভাবে কাজ করে। 
+
+![image](https://user-images.githubusercontent.com/26122249/178534733-59cb614a-adc8-4a12-9ef3-a0bca20c5b20.png)
+
+আর ```Console``` ```Network``` ```Application TAb``` এই তিনটা টুলস নিয়ে জানবো।
 
